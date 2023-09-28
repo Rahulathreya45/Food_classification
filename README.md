@@ -23,7 +23,7 @@ Download and import the dataset mentioned here [https://github.com/Rahulathreya4
 if you are using google colab then upload the dataset to your drive
 
 Mount the Drive into your Colab Notebook and give appropriate path in your Notebook 
-## Heads Up
+## Appendix
 DenseNet take a long time to train the data around 30 mins to 1hr 30 mins 
 
 you can use different versions of DenseNet 
